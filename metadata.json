@@ -1,11 +1,11 @@
 {
-  "name": "snow",
+  "id": "pext.theme.snow",
+  "name": "Snow",
   "developer": "Emily Lau",
   "description": "A white theme for Pext.",
   "homepage": "https://pext.hackerchick.me/",
   "license": "CC-BY-3.0",
   "git_urls": [
-    "https://github.com/Pext/pext_theme_snow",
-    "https://notabug.org/Pext/pext_theme_snow"
+    "https://github.com/Pext/pext_theme_snow"
   ]
 }
